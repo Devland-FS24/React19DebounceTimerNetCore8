@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+body{
+  background-color: #343a40;
+}
+/* resultDropDownListItemContainer*/
+/* .resultProductContainer::-webkit-scrollbar{
+  width: 8ox;
+  height: 20px;
+  border-radius: 10px;
+  background: #e0cbcb;
+} */
+.resultDropDownListItemContainer::-webkit-scrollbar{
+  width: 8ox;
+  height: 20px;
+  border-radius: 10px;
+  background: #e0cbcb;
+}
+
+/* .resultProductContainer::-webkit-scrollbar-thumb{
+  background: #d2a231;
+  border-radius: 10px;
+} */
+
+.resultDropDownListItemContainer::-webkit-scrollbar-thumb{
+  background: #d2a231;
+  border-radius: 10px;
+}

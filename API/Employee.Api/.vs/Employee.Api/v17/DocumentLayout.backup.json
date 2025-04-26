@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|e:\\ready to use\\gitms\\react19debouncetimernetcore8\\api\\employee.api\\employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|e:\\ready to use\\gitms\\react19debouncetimernetcore8\\api\\employee.api\\employee.api\\controllers\\dropdownlistitemsmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\controllers\\dropdownlistitemsmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|e:\\ready to use\\gitms\\react19debouncetimernetcore8\\api\\employee.api\\employee.api\\model\\dropdownlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\model\\dropdownlistitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|e:\\ready to use\\gitms\\react19debouncetimernetcore8\\api\\employee.api\\employee.api\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4072B12-F5B8-445D-AC2E-F54567A7DAE2}|Employee.Api\\Employee.Api.csproj|solutionrelative:employee.api\\model\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DropDownListItemsMasterController.cs",
+              "DocumentMoniker": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "ToolTip": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "RelativeToolTip": "Employee.Api\\Controllers\\DropDownListItemsMasterController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:55:56.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DropDownListItems.cs",
+              "DocumentMoniker": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Model\\DropDownListItems.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Model\\DropDownListItems.cs",
+              "ToolTip": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Model\\DropDownListItems.cs",
+              "RelativeToolTip": "Employee.Api\\Model\\DropDownListItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:48:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Program.cs",
+              "ToolTip": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Program.cs",
+              "RelativeToolTip": "Employee.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:07:21.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Model\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.Api\\Model\\EmployeeDbContext.cs",
+              "ToolTip": "E:\\Ready to use\\GITMS\\React19DebounceTimerNetCore8\\API\\Employee.Api\\Employee.Api\\Model\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee.Api\\Model\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T19:17:09.075Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
