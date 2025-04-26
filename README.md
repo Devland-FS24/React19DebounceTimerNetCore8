@@ -86,6 +86,8 @@ IMPORTANT AND WARNING:
      and
      import AutoCompleteEndPoint from './components/AutoCompleteEndPoint'
 
+    In order to get sample data to search on this AutoCompleteEndPoint component, open the SQL Server Management Studio, then navigate to the TestDB database and open the contents of the table "DropDownListItems". This items range from car brands to country names...
+
 ## Highlights
 
      - This application implements Entity Framework Core 
